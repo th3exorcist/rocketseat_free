@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1",
+    "nodemon": "1.19.2",
+    "mongoose": "5.7.0",
+    "multer": "15.2",
+  }
+}
